@@ -1,0 +1,39 @@
+/* colors and fonts */
+
+
+body{
+	background: #393E41;
+	color:;
+	font-family:Lora;
+	font-size:20px;
+}
+
+h1, h2, h3 {
+	font-family:Roboto;
+	font-weight: lighter;
+}
+
+h1{
+	color:#E55934;
+	font-size:55px;
+}
+h2{
+	color:#F2A65A;
+	font-size:28px;
+}
+p{
+	color: #A7A2A9;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	color:green;
+}
+
+a:hover {
+	color:red;
+	font-family:Roboto;
+}
+
+
